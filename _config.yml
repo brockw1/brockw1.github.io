@@ -1,2 +1,3 @@
 name: Brock Williams
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
