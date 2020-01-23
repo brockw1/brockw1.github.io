@@ -13,6 +13,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     text-decoration: none;
     color: #999;
 }
@@ -23,6 +24,17 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+h2 {
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #333;
+}
+h3 {
+    font-size: 1em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #333;
+}
+
 p {
     font-family: Helvetica,Arial,sans-serif;
     font-size: 1.5em;
@@ -41,6 +53,7 @@ ul.posts {
 }
 
 ul.posts li {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
 }
 
