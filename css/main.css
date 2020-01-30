@@ -1,6 +1,6 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 30px auto;
+    width: 50%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -46,6 +46,8 @@ footer {
     font-size: .8em;
 }
 
+
+
 ul.posts {
     font-family: Helvetica,Arial,sans-serif;
     margin: 20px auto 40px;
@@ -62,4 +64,33 @@ ul.posts li {
   font-size: 1.5em;
   line-height: 1.4em;
   color: #333;
+}
+
+.column {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: left;
+}
+
+.row{
+  display: table; /* Make the container element behave like a table */
+  width: 100%; /* Set full-width to expand the whole page */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+
+}
+
+@media screen and (max-width: 1100px) {
+  .column {
+    width: 100%;
+  }
+}
+
+.desc{
+  padding-left: 50px;
 }
