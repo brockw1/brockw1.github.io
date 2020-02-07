@@ -4,9 +4,9 @@ title: "Binging Game Dev Videos"
 date: 2020-01-31
 ---
 
-I have recently gotten addicted to watching talks and videos about game development. I thought I would make a post of the videos I have really liked recently.
+I have recently been binging various talks and videos about game development. I thought I would make a post of the videos I have really liked recently.
 
-The Game Developers Conference (GDC) Youtube channel is a gold mine of advice for indie devs, from indie devs. I am constantly going down the GDC rabbit hole whenever I see one in my recommended. Unity's Youtube is another great place to learn about specific tricks in Unity. I also heavily enjoy independent creators' channels that talk about their thoughts and experiences with game development.
+The Game Developers Conference (GDC) Youtube channel is a gold mine for me. I am constantly going down the GDC rabbit hole whenever I see one in my recommended feed. Unity's Youtube has been another great place to learn as I work in Unity. I also heavily enjoy a variety of independent creators' channels that talk about their thoughts and experiences with game development.
 
 <h2>The Art of Firewatch</h2>
 
